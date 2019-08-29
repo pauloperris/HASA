@@ -1,2 +1,2 @@
-# HASA
-Software assitivo
+# IFBA-SAA
+Projeto Software Auxiliar Assistivo
